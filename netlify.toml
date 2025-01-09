@@ -1,0 +1,8 @@
+[build]
+publish = "dist/angular-modules"
+command = "npm run build"
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
+```[_{{{CITATION{{{_1{Netlify Deployment - Platzi](https://platzi.com/clases/2487-angular-modular/41206-netlify-deployment/)
