@@ -1,26 +1,33 @@
 {
   "name": "ferre.sa",
   "version": "1.0.0",
-  "description": "empresa de ventas de tanques",
+  "description": "empresa de ventas de tanques de agua",
   "main": "index.js",
   "scripts": {
     "build": "ng build --prod",
     "start": "ng serve"
   },
   "dependencies": {
-    "@stackbit/types": "^0.5.0",
-    "@stackbit/cms-git": "^0.5.0",
-    "@angular/core": "^12.0.0",  
-    "@angular/cli": "^12.0.0"    
+    "@angular/core": "^12.0.0",
+    "@stackbit/cms-git": "^0.4.0",
+    "@stackbit/types": "^0.5.0"
   },
   "devDependencies": {
-    "typescript": "^4.2.4"       
+    "@angular/cli": "^19.0.7",
+    "typescript": "^4.2.4"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sarmientoisrael118/repositorio.git"
+    "url": "https://github.com/tu-usuario/tu-repositorio.git"
   },
   "keywords": [],
-  "author": "israel sarmiento",
-  "license": ""
+  "author": "israel enrique",
+  "license": "MIT"
+}
+
+{
+  "dependencies": {
+    "@stackbit/types": "^0.5.0",
+    "@stackbit/cms-git": "^0.4.0"
+  }
 }
